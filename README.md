@@ -5,7 +5,7 @@
 - 📫 How to reach me - dorvika2@gmail.com
 
 - 🔗 Links on my favorite pet-projects:
-1. Full stack app for sharing prompt - https://promptopia-dt4ta3064-dorvika.vercel.app/
+1. Full stack app for sharing prompt - https://promptopia-ompw4ohxo-dorvika.vercel.app/
 2. Youtube Clone - https://youtube-clone-dorvika.netlify.app
 3. Music App - https://music-app-lyriks.netlify.app
 4. Fashionista Shop - https://dorvika.github.io/fashionista-shop/
