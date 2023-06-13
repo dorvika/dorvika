@@ -5,11 +5,10 @@
 - 📫 How to reach me - dorvika2@gmail.com
 
 - 🔗 Links on my favorite pet-projects:
-1. Delivery food app - https://delivery-food-app-deploy.herokuapp.com/
-2. Fashionista Shop - https://dorvika.github.io/fashionista-shop/
-3. Postil Bedding - https://bedding-postil.herokuapp.com/
-4. Youtube Clone - https://youtube-clone-dorvika.netlify.app
-5. Music App - https://music-app-lyriks.netlify.app
+1. Full stack app for sharing prompt - https://promptopia-dt4ta3064-dorvika.vercel.app/
+2. Youtube Clone - https://youtube-clone-dorvika.netlify.app
+3. Music App - https://music-app-lyriks.netlify.app
+4. Fashionista Shop - https://dorvika.github.io/fashionista-shop/
 
 <!---
 dorvika/dorvika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
