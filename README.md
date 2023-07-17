@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on interesting and difficult projects to gain experience
 - 📫 How to reach me - dorvika2@gmail.com
 
+Portfolio - https://dorvika-portfolio.netlify.app/
+
 - 🔗 Links on my favorite pet-projects:
 1. Full stack app for sharing prompt - https://promptopia-ompw4ohxo-dorvika.vercel.app/
 2. Youtube Clone - https://youtube-clone-dorvika.netlify.app
